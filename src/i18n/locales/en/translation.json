@@ -1,0 +1,82 @@
+{
+    "login":"Login",
+    "register":"Register",
+    
+    
+    "home":"Home",
+    "home_heading":"AI-Based Oral Cancer Detection at Your Fingertips",
+    "home_content":"OralScan is an advanced AI-powred paltform designed to assist in the early detection of oral cancer. Our mission is to provide accessible, fast and reliable screening solutions for everyone, especially in underserved communities where timely diagnosis can save lives.",
+    
+    
+    "ribbon":"Oral cancer diagnosis is now possible — just by uploading an image, without a doctor's appointment, completely safe and fast.",
+    
+    
+    "about":"About",
+    "about_heading":"Next-gen Oral Cancer Detection Through AI Innovation",
+    "about_content":"Our platform uses advanced Artificial Intellegence(AI) techniques to analyze oral images and identify early signs of cancer with high accuracy .",
+    "about_button":"Read More",
+    
+    
+    "how_it_works":"How it works",
+    "how_it_works_top":"How Our Platform Helps You",
+    "how_it_works_content":"Our Ai-powered oral cancer detection platform leverages deep learning models like EfficientNet to analyze uploaded mouth images with high accuracy. Users can conviently upload photo or capture them live using their device's camera. The system provides real-time diagnosis within seconds, helping in early detection of potential cancerous tissues. All user data si fully encrypted and securely handled, ensuring complete privacy and confidentiality throughout the process.",
+    "Contact":"Contact",
+
+    
+    "form_firstname":"First Name*",
+    "form_lastname":"Last name*",
+    "form_mobile":"Mobile Number*",
+    "form_email":"Email*",
+    "form_message":"Message (Optional)",
+    "form_button":"Submit",
+
+
+    "footer_heading_1":"Useful Links",
+    "link1":"National Health Mission",
+    "link2":"National Tobacco Control Programme",
+    "link3":"National Haealth Systems Resource Center",
+    "link4":"Tata Memorial Center",
+    "link5":"WHO FCTC",
+    "link6":"Global Cancer Observatory",
+    "link":"Website",
+
+
+    "footer_heading2":"Contact Info",
+    "location":"ICMR-National Institute of Cancer Prevention and Research, Ministry of Health and Family Welfare, Government of India",
+    "address":"Address: I - 7, Sector - 39, NOIDA, Distt. Gautam Buddha Nagar, U.P - 201301, INDIA",
+    "contacts":"Landline: +91-120-2446938, PABX: 2446900, Fax: +91-120-2579473",
+    
+    
+    "footer_heading3":"How to reach Us",
+    "by_air":"By Air: Nearest airport is Indira Gandhi International Airport, New Delhi.",
+    "by_rail":"By Rail: Nearest railway stations to reach NICPR are Anand Vihar Railway Station, New Delhi Railway Station.",
+    
+    
+    "footer_end":"NICPR-ICMR, Ministry of Health and Family Welfare, Government of India. All rights reserved.",
+
+    
+    "loginmodal":"",
+
+    "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "noAccount": "Don't have an account? Sign Up",
+    "haveAccount": "Already have an account? Login"
+    },
+  "placeholders": {
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email",
+    "shortPassword": "Password too short",
+    "nameRequired": "Name is required",
+    "invalidCredentials": "Invalid credentials"
+  },
+  "messages": {
+    "loginSuccess": "Login successful!",
+    "signupSuccess": "Signup successful! You can now login."
+  }
+
+}
